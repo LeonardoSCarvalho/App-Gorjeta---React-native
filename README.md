@@ -4,7 +4,7 @@
 		src="https://www.flaticon.com/svg/static/icons/svg/2132/2132655.svg">
 </h1>
 <h3 align="center">
-	Expo-BMI-calculation
+	App-Gorjeta-React-native
 </h3>
 
 <p align="center">
@@ -31,8 +31,9 @@ Certifique-se de ter instalado todas as dependências e aplicativos para executa
 Clone este repositório:
 
 ```
-git clone https://github.com/LeonardoSCarvalho/expo-BMI-calculation.git
-cd expo-BMI-calculation
+git clone https://github.com/LeonardoSCarvalho/App-Gorjeta---React-native.git
+
+cd App-Gorjeta---React-native
 ```
 
 Install packages :
